@@ -10,6 +10,17 @@ Build a software application that learns from a body of text (e.g., Shakespeareâ
 ### Create sequences (input-output pairs)
 
 ## Build the RNN Model 
-### Create a simple LSTM/GRU RNN
-### 
-### 
+### Create a simple RNN/LSTM/GRU
+### Define Loss function and optimizer
+### Add functionality for training and saving models
+
+## Training
+### Feed the sequences into the model
+### Track the training loss and accuracy
+### Training log (loss over time)
+
+## Generate Text
+### Load the trained model
+### Create a function to generate text based on a prompt
+### Add temperature sampling to control creativity
+
