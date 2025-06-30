@@ -5,3 +5,4 @@ Build a software application that learns from a body of text (e.g., Shakespeareâ
 
 ## Method
 ### Choose dataset to train on.
+### Install libraries
